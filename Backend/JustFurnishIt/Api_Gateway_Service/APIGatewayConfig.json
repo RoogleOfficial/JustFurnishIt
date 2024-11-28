@@ -1,0 +1,165 @@
+{
+    "Routes": [
+        // This route handles all account-related operations
+        {
+            // The downstream API endpoint for any account-related operations (registration, login, user management)
+            "DownstreamPathTemplate": "/api/account/{Everything}", // {Everything} is a wildcard to capture all actions after /api/account
+            // Specifies the protocol (https or http) to use for the downstream service
+            "DownstreamScheme": "https",
+            // The downstream service host and port (Account_Service)
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost", // Host where the Account_Service is running
+                    "Port": 7001 // Port number for the Account_Service
+                }
+            ],
+            // The gateway path template. Client calls will use this path through the gateway
+            "UpstreamPathTemplate": "/gateway/account/{Everything}", // {Everything} captures all dynamic parts of the path
+            // HTTP methods allowed for account-related actions (POST, GET, PUT, DELETE)
+            "UpstreamHttpMethod": [ "POST", "Get", "Put", "Delete" ]
+        },
+        // This route handles all design-related operations
+        {
+            // The downstream API endpoint for design-related operations
+            "DownstreamPathTemplate": "/api/design/{Everything}", // Dynamic routing for any operation under /api/design
+            "DownstreamScheme": "https", // Secure communication
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7005 // Port for the Design_Service
+                }
+            ],
+            "UpstreamPathTemplate": "/gateway/design/{Everything}", // Gateway path for design-related requests
+            // Allowed HTTP methods for design-related actions
+            "UpstreamHttpMethod": [ "POST", "Get", "Put", "Delete" ]
+        },
+
+        // This route handles all booking-related operations
+        {
+            // The downstream API endpoint for booking-related operations
+            "DownstreamPathTemplate": "/api/booking/{Everything}", // Dynamic routing for booking actions
+            "DownstreamScheme": "https", // Secure protocol
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7003 // Port for the Booking_Service
+                }
+            ],
+            "UpstreamPathTemplate": "/gateway/booking/{Everything}", // Gateway path for booking requests
+            // HTTP methods allowed for booking-related operations
+            "UpstreamHttpMethod": [ "POST", "Get", "Put", "Delete" ]
+        },
+
+        // This route handles all customer-related operations
+        {
+            // The downstream API endpoint for customer-related operations
+            "DownstreamPathTemplate": "/api/customer/{Everything}", // Dynamic routing for customer operations
+            "DownstreamScheme": "https", // Secure communication
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7004 // Port for the Customer_Service
+                }
+            ],
+            "UpstreamPathTemplate": "/gateway/customer/{Everything}", // Gateway path for customer-related requests
+            // HTTP methods allowed for customer-related actions
+            "UpstreamHttpMethod": [ "POST", "Get", "Put", "Delete" ]
+        },
+
+        // This route handles all wishlist-related operations
+        {
+            // The downstream API endpoint for wishlist-related operations
+            "DownstreamPathTemplate": "/api/wishlist/{Everything}", // Dynamic routing for wishlist operations
+            "DownstreamScheme": "https", // Secure protocol
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7004 // Port for the Wishlist_Service (same as customer service, sharing the same host)
+                }
+            ],
+            "UpstreamPathTemplate": "/gateway/wishlist/{Everything}", // Gateway path for wishlist operations
+            // HTTP methods allowed for wishlist actions
+            "UpstreamHttpMethod": [ "POST", "Get", "Put", "Delete" ]
+        },
+
+        // This route handles all review-related operations
+        {
+            // The downstream API endpoint for review-related operations
+            "DownstreamPathTemplate": "/api/review/{Everything}", // Dynamic routing for review operations
+            "DownstreamScheme": "https", // Secure protocol
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7007 // Port for the Review_Service
+                }
+            ],
+            "UpstreamPathTemplate": "/gateway/review/{Everything}", // Gateway path for review requests
+            // HTTP methods allowed for review-related actions
+            "UpstreamHttpMethod": [ "POST", "Get", "Put", "Delete" ]
+        },
+
+        // This route handles all designer-related operations
+        {
+            // The downstream API endpoint for designer-related operations
+            "DownstreamPathTemplate": "/api/designer/{Everything}", // Dynamic routing for designer operations
+            "DownstreamScheme": "https", // Secure protocol
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7006 // Port for the Designer_Service
+                }
+            ],
+            "UpstreamPathTemplate": "/gateway/designer/{Everything}", // Gateway path for designer-related actions
+            // HTTP methods allowed for designer-related operations
+            "UpstreamHttpMethod": [ "POST", "Get", "Put", "Delete" ]
+        },
+
+        // This route handles all media-related operations
+        {
+            // The downstream API endpoint for media-related operations (e.g., image upload/download)
+            "DownstreamPathTemplate": "/api/media/{Everything}", // Dynamic routing for media operations
+            "DownstreamScheme": "https", // Secure protocol
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7008 // Port for the Media_Service
+                }
+            ],
+            "UpstreamPathTemplate": "/gateway/media/{Everything}", // Gateway path for media-related requests
+            // HTTP methods allowed for media operations
+            "UpstreamHttpMethod": [ "POST", "Get", "Put", "Delete" ]
+        },
+
+        // This route handles all quotation-related operations
+        {
+            // The downstream API endpoint for quotation-related operations
+            "DownstreamPathTemplate": "/api/quotes/{Everything}", // Dynamic routing for quotation operations
+            "DownstreamScheme": "https", // Secure protocol
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7009 // Port for the Quotation_Service
+                }
+            ],
+            "UpstreamPathTemplate": "/gateway/quotes/{Everything}", // Gateway path for quotation-related requests
+            // HTTP methods allowed for quotation-related actions
+            "UpstreamHttpMethod": [ "POST", "Get", "Put", "Delete" ]
+        },
+
+        // This route handles all Otp-service operations
+        {
+            // The downstream API endpoint for quotation-related operations
+            "DownstreamPathTemplate": "/api/otp/{Everything}", // Dynamic routing for quotation operations
+            "DownstreamScheme": "https", // Secure protocol
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7002 // Port for the Otp_Service
+                }
+            ],
+            "UpstreamPathTemplate": "/gateway/otp/{Everything}", // Gateway path for quotation-related requests
+            // HTTP methods allowed for quotation-related actions
+            "UpstreamHttpMethod": [ "POST" ]
+        }
+    ]
+}

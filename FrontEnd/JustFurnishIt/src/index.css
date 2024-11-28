@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@keyframes flip-box {
+    30% {
+      transform: rotateX(0deg);
+      opacity: 1;
+      /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); */
+    }
+    60% {
+      transform: rotateX(90deg);
+      opacity: 0;
+      /* box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); */
+    }
+    100% {
+      transform: rotateX(0deg);
+      opacity: 1;
+      /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); */
+    }
+  }
+  
+  @keyframes fade{
+    0%, 100% {opacity: 0;}
+    50% {opacity: 1;}
+  }
+
+  @layer utilities {
+    .animate-fade {
+      animation: fade 2s infinite;
+    }
+    .color-delay {
+      animation-delay: 1s; /* Delay for the color image to alternate with bnw image */
+    }
+  }
+
+  .flip-text {
+    animation: flip-box 3s cubic-bezier(0.68, -0.55, 0.27, 1.55) infinite;
+    display: inline-block;
+    transform-origin: center;
+    perspective: 1000px;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); */
+  }
+
+
+
+
+  

@@ -1,0 +1,115 @@
+version: "3.9"
+services:
+ sqlserver:
+   image: mcr.microsoft.com/mssql/server
+   ports:
+     - "1433:1433"
+   environment:
+    - ACCEPT_EULA=Y
+    - SA_PASSWORD=Passw0rd
+ mongodb:
+    image: mongo:latest
+    hostname: mongodb
+    ports:
+      - "27017:27017"
+ account_service:
+    image: ${DOCKER_REGISTRY-}accountservice
+    build:
+      context: .
+      dockerfile: Account_Service/Dockerfile
+    ports:
+      - "5001:5001"
+    depends_on:
+      - sqlserver
+
+ api_gateway_service:
+    image: ${DOCKER_REGISTRY-}apigatewayservice
+    build:
+      context: .
+      dockerfile: Api_Gateway_Service/Dockerfile
+    ports:
+      - "5000:5000"
+   
+
+ booking-service:
+    image: ${DOCKER_REGISTRY-}bookingservice
+    build:
+      context: .
+      dockerfile: Booking-Service/Dockerfile
+    ports:
+      - "5002:5002"
+    depends_on:
+      - sqlserver
+
+
+ customer-service:
+    image: ${DOCKER_REGISTRY-}customerservice
+    build:
+      context: .
+      dockerfile: Customer-Service/Dockerfile
+    ports:
+      - "5003:5003"
+    depends_on:
+      - mongodb
+
+
+ design_services:
+    image: ${DOCKER_REGISTRY-}designservices
+    build:
+      context: .
+      dockerfile: Design_Services/Dockerfile
+    ports:
+      - "5004:5004"
+    depends_on:
+      - sqlserver
+
+
+ designer-service:
+    image: ${DOCKER_REGISTRY-}designerservice
+    build:
+      context: .
+      dockerfile: Designer-Service/Dockerfile
+    ports:
+      - "5005:5005"
+    depends_on:
+      - sqlserver
+
+ feedback_service:
+    image: ${DOCKER_REGISTRY-}feedbackservice
+    build:
+      context: .
+      dockerfile: Feedback_Service/Dockerfile
+    ports:
+      - "5006:5006"
+    depends_on:
+       - sqlserver
+
+ imageuploadservice:
+    image: ${DOCKER_REGISTRY-}imageuploadservice
+    build:
+      context: .
+      dockerfile: ImageUploadService/Dockerfile
+    ports:
+      - "5007:5007"
+    depends_on:
+      - sqlserver
+
+ quoteservices:
+    image: ${DOCKER_REGISTRY-}quoteservices
+    build:
+      context: .
+      dockerfile: QuoteServices/Dockerfile
+    ports:
+      - "5008:5008"
+    depends_on:
+      - mongodb
+
+
+ otpservice:
+    image: ${DOCKER_REGISTRY-}otpservice
+    build:
+      context: .
+      dockerfile: OtpService/Dockerfile
+    ports:
+      - "5009:5009"
+

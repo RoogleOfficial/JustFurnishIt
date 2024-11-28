@@ -1,0 +1,24 @@
+
+.slider-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+ 
+  .slider-track {
+    display: flex;
+    width: calc(200%);
+    animation: scroll 65s linear infinite;
+  }
+ 
+  .slider-image {
+    width: 100%;
+  }
+ 
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {     transform: translateX(-50%);
+    }
+  }

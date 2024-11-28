@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "account_service": "StartDebugging",
+        "api_gateway_service": "StartDebugging",
+        "booking-service": "StartDebugging",
+        "customer-service": "StartDebugging",
+        "design_services": "StartDebugging",
+        "designer-service": "StartDebugging",
+        "feedback_service": "StartDebugging",
+        "imageuploadservice": "StartDebugging",
+        "quoteservices": "StartDebugging"
+      }
+    }
+  }
+}

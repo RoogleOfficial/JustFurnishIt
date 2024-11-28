@@ -1,0 +1,4187 @@
+[{
+  "_id": {
+    "$oid": "6724e3a3ea33bae25cd53595"
+  },
+  "DesignId": "30",
+  "Basic": {
+    "New": 5000,
+    "Renew": 2000,
+    "Modular": "Compact modular design with efficient storage solutions.",
+    "Furniture": "Basic cabinetry and countertop materials.",
+    "Services": "Installation and basic plumbing services."
+  },
+  "Intermediate": {
+    "New": 5000,
+    "Renew": 2000,
+    "Modular": "Compact modular design with efficient storage solutions.",
+    "Furniture": "Basic cabinetry and countertop materials.",
+    "Services": "Installation and basic plumbing services."
+  },
+  "Premium": {
+    "New": 5000,
+    "Renew": 2000,
+    "Modular": "Compact modular design with efficient storage solutions.",
+    "Furniture": "Basic cabinetry and countertop materials.",
+    "Services": "Installation and basic plumbing services."
+  }
+},{
+  "_id": {
+    "$oid": "6724e45fea33bae25cd53596"
+  },
+  "DesignId": "31",
+  "Basic": {
+    "New": 4500,
+    "Renew": 1800,
+    "Modular": "Compact modular design with essential storage solutions.",
+    "Furniture": "Standard cabinetry and laminate countertops.",
+    "Services": "Basic installation and plumbing services."
+  },
+  "Intermediate": {
+    "New": 4500,
+    "Renew": 1800,
+    "Modular": "Compact modular design with essential storage solutions.",
+    "Furniture": "Standard cabinetry and laminate countertops.",
+    "Services": "Basic installation and plumbing services."
+  },
+  "Premium": {
+    "New": 4500,
+    "Renew": 1800,
+    "Modular": "Compact modular design with essential storage solutions.",
+    "Furniture": "Standard cabinetry and laminate countertops.",
+    "Services": "Basic installation and plumbing services."
+  }
+},{
+  "_id": {
+    "$oid": "6724e4fcea33bae25cd53598"
+  },
+  "DesignId": "32",
+  "Basic": {
+    "New": 4800,
+    "Renew": 1700,
+    "Modular": "Functional modular design with basic storage options.",
+    "Furniture": "Economical cabinetry and tile countertops.",
+    "Services": "Basic installation and plumbing services."
+  },
+  "Intermediate": {
+    "New": 4800,
+    "Renew": 1700,
+    "Modular": "Functional modular design with basic storage options.",
+    "Furniture": "Economical cabinetry and tile countertops.",
+    "Services": "Basic installation and plumbing services."
+  },
+  "Premium": {
+    "New": 4800,
+    "Renew": 1700,
+    "Modular": "Functional modular design with basic storage options.",
+    "Furniture": "Economical cabinetry and tile countertops.",
+    "Services": "Basic installation and plumbing services."
+  }
+},{
+  "_id": {
+    "$oid": "6724e52aea33bae25cd53599"
+  },
+  "DesignId": "33",
+  "Basic": {
+    "New": 5200,
+    "Renew": 1900,
+    "Modular": "Efficient modular design with space-saving solutions.",
+    "Furniture": "Basic cabinetry and wood laminate countertops.",
+    "Services": "Basic installation and plumbing services."
+  },
+  "Intermediate": {
+    "New": 5200,
+    "Renew": 1900,
+    "Modular": "Efficient modular design with space-saving solutions.",
+    "Furniture": "Basic cabinetry and wood laminate countertops.",
+    "Services": "Basic installation and plumbing services."
+  },
+  "Premium": {
+    "New": 5200,
+    "Renew": 1900,
+    "Modular": "Efficient modular design with space-saving solutions.",
+    "Furniture": "Basic cabinetry and wood laminate countertops.",
+    "Services": "Basic installation and plumbing services."
+  }
+},{
+  "_id": {
+    "$oid": "67250ce76e361b7271a2497a"
+  },
+  "DesignId": "26",
+  "Basic": {
+    "New": 100,
+    "Renew": 80,
+    "Modular": "Simple modular design",
+    "Furniture": "Basic shelves and hanging space",
+    "Services": "Basic installation service"
+  },
+  "Intermediate": {
+    "New": 100,
+    "Renew": 80,
+    "Modular": "Simple modular design",
+    "Furniture": "Basic shelves and hanging space",
+    "Services": "Basic installation service"
+  },
+  "Premium": {
+    "New": 100,
+    "Renew": 80,
+    "Modular": "Simple modular design",
+    "Furniture": "Basic shelves and hanging space",
+    "Services": "Basic installation service"
+  }
+},{
+  "_id": {
+    "$oid": "67250e1a6e361b7271a2497b"
+  },
+  "DesignId": "27",
+  "Basic": {
+    "New": 120,
+    "Renew": 90,
+    "Modular": "Compact modular design",
+    "Furniture": "Basic hanging rods and shelves",
+    "Services": "Standard installation service"
+  },
+  "Intermediate": {
+    "New": 120,
+    "Renew": 90,
+    "Modular": "Compact modular design",
+    "Furniture": "Basic hanging rods and shelves",
+    "Services": "Standard installation service"
+  },
+  "Premium": {
+    "New": 120,
+    "Renew": 90,
+    "Modular": "Compact modular design",
+    "Furniture": "Basic hanging rods and shelves",
+    "Services": "Standard installation service"
+  }
+},{
+  "_id": {
+    "$oid": "67250e4a6e361b7271a2497c"
+  },
+  "DesignId": "28",
+  "Basic": {
+    "New": 110,
+    "Renew": 85,
+    "Modular": "Functional modular design",
+    "Furniture": "Simple shelves and hanging rods",
+    "Services": "Basic assembly service"
+  },
+  "Intermediate": {
+    "New": 110,
+    "Renew": 85,
+    "Modular": "Functional modular design",
+    "Furniture": "Simple shelves and hanging rods",
+    "Services": "Basic assembly service"
+  },
+  "Premium": {
+    "New": 110,
+    "Renew": 85,
+    "Modular": "Functional modular design",
+    "Furniture": "Simple shelves and hanging rods",
+    "Services": "Basic assembly service"
+  }
+},{
+  "_id": {
+    "$oid": "67250e6d6e361b7271a2497d"
+  },
+  "DesignId": "29",
+  "Basic": {
+    "New": 130,
+    "Renew": 95,
+    "Modular": "Basic modular framework",
+    "Furniture": "Standard shelves and single hanging rod",
+    "Services": "Basic setup service"
+  },
+  "Intermediate": {
+    "New": 130,
+    "Renew": 95,
+    "Modular": "Basic modular framework",
+    "Furniture": "Standard shelves and single hanging rod",
+    "Services": "Basic setup service"
+  },
+  "Premium": {
+    "New": 130,
+    "Renew": 95,
+    "Modular": "Basic modular framework",
+    "Furniture": "Standard shelves and single hanging rod",
+    "Services": "Basic setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67250fdf6e361b7271a2497e"
+  },
+  "DesignId": "34",
+  "Basic": {
+    "New": 200,
+    "Renew": 150,
+    "Modular": "Standard layout with essential features",
+    "Furniture": "Basic bed frame, nightstands, and dresser",
+    "Services": "Basic setup service"
+  },
+  "Intermediate": {
+    "New": 200,
+    "Renew": 150,
+    "Modular": "Standard layout with essential features",
+    "Furniture": "Basic bed frame, nightstands, and dresser",
+    "Services": "Basic setup service"
+  },
+  "Premium": {
+    "New": 200,
+    "Renew": 150,
+    "Modular": "Standard layout with essential features",
+    "Furniture": "Basic bed frame, nightstands, and dresser",
+    "Services": "Basic setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672510966e361b7271a2497f"
+  },
+  "DesignId": "35",
+  "Basic": {
+    "New": 220,
+    "Renew": 160,
+    "Modular": "Simple layout with essential amenities",
+    "Furniture": "Full-size bed, basic nightstands, and a small dresser",
+    "Services": "Basic assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 220,
+    "Renew": 160,
+    "Modular": "Simple layout with essential amenities",
+    "Furniture": "Full-size bed, basic nightstands, and a small dresser",
+    "Services": "Basic assembly and setup service"
+  },
+  "Premium": {
+    "New": 220,
+    "Renew": 160,
+    "Modular": "Simple layout with essential amenities",
+    "Furniture": "Full-size bed, basic nightstands, and a small dresser",
+    "Services": "Basic assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672510b46e361b7271a24980"
+  },
+  "DesignId": "36",
+  "Basic": {
+    "New": 240,
+    "Renew": 180,
+    "Modular": "Basic functional layout",
+    "Furniture": "Queen bed, simple nightstands, and a compact dresser",
+    "Services": "Standard setup and assembly service"
+  },
+  "Intermediate": {
+    "New": 240,
+    "Renew": 180,
+    "Modular": "Basic functional layout",
+    "Furniture": "Queen bed, simple nightstands, and a compact dresser",
+    "Services": "Standard setup and assembly service"
+  },
+  "Premium": {
+    "New": 240,
+    "Renew": 180,
+    "Modular": "Basic functional layout",
+    "Furniture": "Queen bed, simple nightstands, and a compact dresser",
+    "Services": "Standard setup and assembly service"
+  }
+},{
+  "_id": {
+    "$oid": "672511246e361b7271a24981"
+  },
+  "DesignId": "37",
+  "Basic": {
+    "New": 260,
+    "Renew": 200,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Full-size bed, nightstands, and a simple dresser",
+    "Services": "Basic setup and assembly service"
+  },
+  "Intermediate": {
+    "New": 260,
+    "Renew": 200,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Full-size bed, nightstands, and a simple dresser",
+    "Services": "Basic setup and assembly service"
+  },
+  "Premium": {
+    "New": 260,
+    "Renew": 200,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Full-size bed, nightstands, and a simple dresser",
+    "Services": "Basic setup and assembly service"
+  }
+},{
+  "_id": {
+    "$oid": "672512686e361b7271a24982"
+  },
+  "DesignId": "38",
+  "Basic": {
+    "New": 250,
+    "Renew": 180,
+    "Modular": "Standard layout with essential elements",
+    "Furniture": "Basic sofa, coffee table, and TV stand",
+    "Services": "Basic assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 250,
+    "Renew": 180,
+    "Modular": "Standard layout with essential elements",
+    "Furniture": "Basic sofa, coffee table, and TV stand",
+    "Services": "Basic assembly and setup service"
+  },
+  "Premium": {
+    "New": 250,
+    "Renew": 180,
+    "Modular": "Standard layout with essential elements",
+    "Furniture": "Basic sofa, coffee table, and TV stand",
+    "Services": "Basic assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672512cc6e361b7271a24983"
+  },
+  "DesignId": "39",
+  "Basic": {
+    "New": 270,
+    "Renew": 200,
+    "Modular": "Functional layout with essential features",
+    "Furniture": "Standard sofa, simple coffee table, and media console",
+    "Services": "Basic setup and assembly service"
+  },
+  "Intermediate": {
+    "New": 270,
+    "Renew": 200,
+    "Modular": "Functional layout with essential features",
+    "Furniture": "Standard sofa, simple coffee table, and media console",
+    "Services": "Basic setup and assembly service"
+  },
+  "Premium": {
+    "New": 270,
+    "Renew": 200,
+    "Modular": "Functional layout with essential features",
+    "Furniture": "Standard sofa, simple coffee table, and media console",
+    "Services": "Basic setup and assembly service"
+  }
+},{
+  "_id": {
+    "$oid": "672512ff6e361b7271a24984"
+  },
+  "DesignId": "40",
+  "Basic": {
+    "New": 290,
+    "Renew": 220,
+    "Modular": "Basic layout with essential components",
+    "Furniture": "Standard sofa, simple coffee table, and a TV stand",
+    "Services": "Basic assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 290,
+    "Renew": 220,
+    "Modular": "Basic layout with essential components",
+    "Furniture": "Standard sofa, simple coffee table, and a TV stand",
+    "Services": "Basic assembly and setup service"
+  },
+  "Premium": {
+    "New": 290,
+    "Renew": 220,
+    "Modular": "Basic layout with essential components",
+    "Furniture": "Standard sofa, simple coffee table, and a TV stand",
+    "Services": "Basic assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672513566e361b7271a24985"
+  },
+  "DesignId": "41",
+  "Basic": {
+    "New": 310,
+    "Renew": 240,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Standard sofa, basic coffee table, and a media unit",
+    "Services": "Basic setup and assembly service"
+  },
+  "Intermediate": {
+    "New": 310,
+    "Renew": 240,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Standard sofa, basic coffee table, and a media unit",
+    "Services": "Basic setup and assembly service"
+  },
+  "Premium": {
+    "New": 310,
+    "Renew": 240,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Standard sofa, basic coffee table, and a media unit",
+    "Services": "Basic setup and assembly service"
+  }
+},{
+  "_id": {
+    "$oid": "672514876e361b7271a24986"
+  },
+  "DesignId": "43",
+  "Basic": {
+    "New": 220,
+    "Renew": 160,
+    "Modular": "Essential layout with basic elements",
+    "Furniture": "Basic desk, ergonomic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 220,
+    "Renew": 160,
+    "Modular": "Essential layout with basic elements",
+    "Furniture": "Basic desk, ergonomic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 220,
+    "Renew": 160,
+    "Modular": "Essential layout with basic elements",
+    "Furniture": "Basic desk, ergonomic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672515246e361b7271a24987"
+  },
+  "DesignId": "44",
+  "Basic": {
+    "New": 240,
+    "Renew": 180,
+    "Modular": "Standard layout with essential features",
+    "Furniture": "Basic desk, comfortable chair, and a small bookcase",
+    "Services": "Basic setup and assembly service"
+  },
+  "Intermediate": {
+    "New": 240,
+    "Renew": 180,
+    "Modular": "Standard layout with essential features",
+    "Furniture": "Basic desk, comfortable chair, and a small bookcase",
+    "Services": "Basic setup and assembly service"
+  },
+  "Premium": {
+    "New": 240,
+    "Renew": 180,
+    "Modular": "Standard layout with essential features",
+    "Furniture": "Basic desk, comfortable chair, and a small bookcase",
+    "Services": "Basic setup and assembly service"
+  }
+},{
+  "_id": {
+    "$oid": "6725159b6e361b7271a24988"
+  },
+  "DesignId": "45",
+  "Basic": {
+    "New": 260,
+    "Renew": 200,
+    "Modular": "Functional layout with essential elements",
+    "Furniture": "Compact desk, basic chair, and a small shelf unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 260,
+    "Renew": 200,
+    "Modular": "Functional layout with essential elements",
+    "Furniture": "Compact desk, basic chair, and a small shelf unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 260,
+    "Renew": 200,
+    "Modular": "Functional layout with essential elements",
+    "Furniture": "Compact desk, basic chair, and a small shelf unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725162b6e361b7271a24989"
+  },
+  "DesignId": "46",
+  "Basic": {
+    "New": 280,
+    "Renew": 220,
+    "Modular": "Basic layout with essential features",
+    "Furniture": "Standard desk, basic chair, and a small bookcase",
+    "Services": "Standard setup and assembly service"
+  },
+  "Intermediate": {
+    "New": 280,
+    "Renew": 220,
+    "Modular": "Basic layout with essential features",
+    "Furniture": "Standard desk, basic chair, and a small bookcase",
+    "Services": "Standard setup and assembly service"
+  },
+  "Premium": {
+    "New": 280,
+    "Renew": 220,
+    "Modular": "Basic layout with essential features",
+    "Furniture": "Standard desk, basic chair, and a small bookcase",
+    "Services": "Standard setup and assembly service"
+  }
+},{
+  "_id": {
+    "$oid": "672516576e361b7271a2498a"
+  },
+  "DesignId": "47",
+  "Basic": {
+    "New": 300,
+    "Renew": 240,
+    "Modular": "Standard layout with essential features",
+    "Furniture": "Compact desk, basic chair, and a small shelving unit",
+    "Services": "Basic assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 300,
+    "Renew": 240,
+    "Modular": "Standard layout with essential features",
+    "Furniture": "Compact desk, basic chair, and a small shelving unit",
+    "Services": "Basic assembly and setup service"
+  },
+  "Premium": {
+    "New": 300,
+    "Renew": 240,
+    "Modular": "Standard layout with essential features",
+    "Furniture": "Compact desk, basic chair, and a small shelving unit",
+    "Services": "Basic assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725168d6e361b7271a2498b"
+  },
+  "DesignId": "48",
+  "Basic": {
+    "New": 320,
+    "Renew": 260,
+    "Modular": "Basic functional layout",
+    "Furniture": "Standard desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 320,
+    "Renew": 260,
+    "Modular": "Basic functional layout",
+    "Furniture": "Standard desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 320,
+    "Renew": 260,
+    "Modular": "Basic functional layout",
+    "Furniture": "Standard desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672516c86e361b7271a2498c"
+  },
+  "DesignId": "49",
+  "Basic": {
+    "New": 340,
+    "Renew": 280,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Compact desk, basic chair, and a small storage shelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 340,
+    "Renew": 280,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Compact desk, basic chair, and a small storage shelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 340,
+    "Renew": 280,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Compact desk, basic chair, and a small storage shelf",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725178f6e361b7271a2498e"
+  },
+  "DesignId": "50",
+  "Basic": {
+    "New": 360,
+    "Renew": 300,
+    "Modular": "Functional layout with essential elements",
+    "Furniture": "Standard desk, basic chair, and a small bookcase",
+    "Services": "Standard setup and assembly service"
+  },
+  "Intermediate": {
+    "New": 360,
+    "Renew": 300,
+    "Modular": "Functional layout with essential elements",
+    "Furniture": "Standard desk, basic chair, and a small bookcase",
+    "Services": "Standard setup and assembly service"
+  },
+  "Premium": {
+    "New": 360,
+    "Renew": 300,
+    "Modular": "Functional layout with essential elements",
+    "Furniture": "Standard desk, basic chair, and a small bookcase",
+    "Services": "Standard setup and assembly service"
+  }
+},{
+  "_id": {
+    "$oid": "672517db6e361b7271a2498f"
+  },
+  "DesignId": "51",
+  "Basic": {
+    "New": 380,
+    "Renew": 320,
+    "Modular": "Basic functional layout",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 380,
+    "Renew": 320,
+    "Modular": "Basic functional layout",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 380,
+    "Renew": 320,
+    "Modular": "Basic functional layout",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672519116e361b7271a24990"
+  },
+  "DesignId": "52",
+  "Basic": {
+    "New": 400,
+    "Renew": 340,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Standard desk, basic chair, and a small storage unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 400,
+    "Renew": 340,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Standard desk, basic chair, and a small storage unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 400,
+    "Renew": 340,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Standard desk, basic chair, and a small storage unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672519776e361b7271a24991"
+  },
+  "DesignId": "53",
+  "Basic": {
+    "New": 420,
+    "Renew": 360,
+    "Modular": "Functional layout with essential components",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 420,
+    "Renew": 360,
+    "Modular": "Functional layout with essential components",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 420,
+    "Renew": 360,
+    "Modular": "Functional layout with essential components",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672519e46e361b7271a24992"
+  },
+  "DesignId": "54",
+  "Basic": {
+    "New": 440,
+    "Renew": 380,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Standard desk, basic chair, and a compact storage unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 440,
+    "Renew": 380,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Standard desk, basic chair, and a compact storage unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 440,
+    "Renew": 380,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Standard desk, basic chair, and a compact storage unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67251ada6e361b7271a24993"
+  },
+  "DesignId": "55",
+  "Basic": {
+    "New": 460,
+    "Renew": 400,
+    "Modular": "Functional layout with essential elements",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 460,
+    "Renew": 400,
+    "Modular": "Functional layout with essential elements",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 460,
+    "Renew": 400,
+    "Modular": "Functional layout with essential elements",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67251ba46e361b7271a24994"
+  },
+  "DesignId": "56",
+  "Basic": {
+    "New": 480,
+    "Renew": 420,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Standard desk, basic chair, and a compact storage unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 480,
+    "Renew": 420,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Standard desk, basic chair, and a compact storage unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 480,
+    "Renew": 420,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Standard desk, basic chair, and a compact storage unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67251c4e6e361b7271a24995"
+  },
+  "DesignId": "57",
+  "Basic": {
+    "New": 500,
+    "Renew": 440,
+    "Modular": "Functional layout with essential elements",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 500,
+    "Renew": 440,
+    "Modular": "Functional layout with essential elements",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 500,
+    "Renew": 440,
+    "Modular": "Functional layout with essential elements",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67251ec56e361b7271a24996"
+  },
+  "DesignId": "58",
+  "Basic": {
+    "New": 520,
+    "Renew": 460,
+    "Modular": "Basic functional layout",
+    "Furniture": "Standard desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 520,
+    "Renew": 460,
+    "Modular": "Basic functional layout",
+    "Furniture": "Standard desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 520,
+    "Renew": 460,
+    "Modular": "Basic functional layout",
+    "Furniture": "Standard desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67251f816e361b7271a24997"
+  },
+  "DesignId": "59",
+  "Basic": {
+    "New": 540,
+    "Renew": 480,
+    "Modular": "Functional layout with essential components",
+    "Furniture": "Compact desk, basic chair, and a small storage unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 540,
+    "Renew": 480,
+    "Modular": "Functional layout with essential components",
+    "Furniture": "Compact desk, basic chair, and a small storage unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 540,
+    "Renew": 480,
+    "Modular": "Functional layout with essential components",
+    "Furniture": "Compact desk, basic chair, and a small storage unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725200a6e361b7271a24998"
+  },
+  "DesignId": "60",
+  "Basic": {
+    "New": 560,
+    "Renew": 500,
+    "Modular": "Basic layout with essential features",
+    "Furniture": "Standard desk, basic chair, and a compact bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 560,
+    "Renew": 500,
+    "Modular": "Basic layout with essential features",
+    "Furniture": "Standard desk, basic chair, and a compact bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 560,
+    "Renew": 500,
+    "Modular": "Basic layout with essential features",
+    "Furniture": "Standard desk, basic chair, and a compact bookshelf",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672521506e361b7271a24999"
+  },
+  "DesignId": "61",
+  "Basic": {
+    "New": 580,
+    "Renew": 520,
+    "Modular": "Functional layout with essential components",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 580,
+    "Renew": 520,
+    "Modular": "Functional layout with essential components",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 580,
+    "Renew": 520,
+    "Modular": "Functional layout with essential components",
+    "Furniture": "Compact desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672521c96e361b7271a2499a"
+  },
+  "DesignId": "62",
+  "Basic": {
+    "New": 600,
+    "Renew": 540,
+    "Modular": "Basic functional layout",
+    "Furniture": "Standard desk, basic chair, and a compact storage unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 600,
+    "Renew": 540,
+    "Modular": "Basic functional layout",
+    "Furniture": "Standard desk, basic chair, and a compact storage unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 600,
+    "Renew": 540,
+    "Modular": "Basic functional layout",
+    "Furniture": "Standard desk, basic chair, and a compact storage unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725228c6e361b7271a2499b"
+  },
+  "DesignId": "63",
+  "Basic": {
+    "New": 620,
+    "Renew": 560,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Standard desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 620,
+    "Renew": 560,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Standard desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 620,
+    "Renew": 560,
+    "Modular": "Essential layout with basic features",
+    "Furniture": "Standard desk, basic chair, and a small bookshelf",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672524146e361b7271a2499c"
+  },
+  "DesignId": "64",
+  "Basic": {
+    "New": 640,
+    "Renew": 580,
+    "Modular": "Basic dining layout with essential features",
+    "Furniture": "Standard dining table, four chairs, and a sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 640,
+    "Renew": 580,
+    "Modular": "Basic dining layout with essential features",
+    "Furniture": "Standard dining table, four chairs, and a sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 640,
+    "Renew": 580,
+    "Modular": "Basic dining layout with essential features",
+    "Furniture": "Standard dining table, four chairs, and a sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672524a86e361b7271a2499d"
+  },
+  "DesignId": "66",
+  "Basic": {
+    "New": 660,
+    "Renew": 600,
+    "Modular": "Essential dining layout with basic features",
+    "Furniture": "Standard dining table, four chairs, and a small side table",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 660,
+    "Renew": 600,
+    "Modular": "Essential dining layout with basic features",
+    "Furniture": "Standard dining table, four chairs, and a small side table",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 660,
+    "Renew": 600,
+    "Modular": "Essential dining layout with basic features",
+    "Furniture": "Standard dining table, four chairs, and a small side table",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672525256e361b7271a2499e"
+  },
+  "DesignId": "67",
+  "Basic": {
+    "New": 680,
+    "Renew": 620,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 680,
+    "Renew": 620,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 680,
+    "Renew": 620,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725286c6e361b7271a2499f"
+  },
+  "DesignId": "68",
+  "Basic": {
+    "New": 700,
+    "Renew": 640,
+    "Modular": "Essential dining layout with basic features",
+    "Furniture": "Standard dining table, four chairs, and a small buffet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 700,
+    "Renew": 640,
+    "Modular": "Essential dining layout with basic features",
+    "Furniture": "Standard dining table, four chairs, and a small buffet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 700,
+    "Renew": 640,
+    "Modular": "Essential dining layout with basic features",
+    "Furniture": "Standard dining table, four chairs, and a small buffet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725294c6e361b7271a249a0"
+  },
+  "DesignId": "69",
+  "Basic": {
+    "New": 720,
+    "Renew": 660,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 720,
+    "Renew": 660,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 720,
+    "Renew": 660,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725296c6e361b7271a249a1"
+  },
+  "DesignId": "70",
+  "Basic": {
+    "New": 740,
+    "Renew": 680,
+    "Modular": "Essential dining layout with basic features",
+    "Furniture": "Standard dining table, four chairs, and a small buffet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 740,
+    "Renew": 680,
+    "Modular": "Essential dining layout with basic features",
+    "Furniture": "Standard dining table, four chairs, and a small buffet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 740,
+    "Renew": 680,
+    "Modular": "Essential dining layout with basic features",
+    "Furniture": "Standard dining table, four chairs, and a small buffet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672529826e361b7271a249a2"
+  },
+  "DesignId": "71",
+  "Basic": {
+    "New": 760,
+    "Renew": 700,
+    "Modular": "Basic layout with essential features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 760,
+    "Renew": 700,
+    "Modular": "Basic layout with essential features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 760,
+    "Renew": 700,
+    "Modular": "Basic layout with essential features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725299e6e361b7271a249a3"
+  },
+  "DesignId": "72",
+  "Basic": {
+    "New": 780,
+    "Renew": 720,
+    "Modular": "Essential dining layout with basic features",
+    "Furniture": "Standard dining table, four chairs, and a small buffet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 780,
+    "Renew": 720,
+    "Modular": "Essential dining layout with basic features",
+    "Furniture": "Standard dining table, four chairs, and a small buffet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 780,
+    "Renew": 720,
+    "Modular": "Essential dining layout with basic features",
+    "Furniture": "Standard dining table, four chairs, and a small buffet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252bbb6e361b7271a249a4"
+  },
+  "DesignId": "73",
+  "Basic": {
+    "New": 800,
+    "Renew": 740,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 800,
+    "Renew": 740,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 800,
+    "Renew": 740,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252bd56e361b7271a249a5"
+  },
+  "DesignId": "74",
+  "Basic": {
+    "New": 820,
+    "Renew": 760,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 820,
+    "Renew": 760,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 820,
+    "Renew": 760,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252c476e361b7271a249a6"
+  },
+  "DesignId": "75",
+  "Basic": {
+    "New": 840,
+    "Renew": 780,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 840,
+    "Renew": 780,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 840,
+    "Renew": 780,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252c606e361b7271a249a7"
+  },
+  "DesignId": "76",
+  "Basic": {
+    "New": 860,
+    "Renew": 800,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 860,
+    "Renew": 800,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 860,
+    "Renew": 800,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252c776e361b7271a249a8"
+  },
+  "DesignId": "77",
+  "Basic": {
+    "New": 880,
+    "Renew": 820,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 880,
+    "Renew": 820,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 880,
+    "Renew": 820,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252c8c6e361b7271a249a9"
+  },
+  "DesignId": "78",
+  "Basic": {
+    "New": 900,
+    "Renew": 840,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 900,
+    "Renew": 840,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 900,
+    "Renew": 840,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252ca66e361b7271a249aa"
+  },
+  "DesignId": "79",
+  "Basic": {
+    "New": 920,
+    "Renew": 860,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 920,
+    "Renew": 860,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 920,
+    "Renew": 860,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252cbe6e361b7271a249ab"
+  },
+  "DesignId": "80",
+  "Basic": {
+    "New": 940,
+    "Renew": 880,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 940,
+    "Renew": 880,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 940,
+    "Renew": 880,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252ce16e361b7271a249ac"
+  },
+  "DesignId": "81",
+  "Basic": {
+    "New": 960,
+    "Renew": 900,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 960,
+    "Renew": 900,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 960,
+    "Renew": 900,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252cf86e361b7271a249ad"
+  },
+  "DesignId": "82",
+  "Basic": {
+    "New": 980,
+    "Renew": 920,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 980,
+    "Renew": 920,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 980,
+    "Renew": 920,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252d126e361b7271a249ae"
+  },
+  "DesignId": "83",
+  "Basic": {
+    "New": 1000,
+    "Renew": 940,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1000,
+    "Renew": 940,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1000,
+    "Renew": 940,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252d246e361b7271a249af"
+  },
+  "DesignId": "84",
+  "Basic": {
+    "New": 1020,
+    "Renew": 960,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1020,
+    "Renew": 960,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1020,
+    "Renew": 960,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252d5a6e361b7271a249b0"
+  },
+  "DesignId": "85",
+  "Basic": {
+    "New": 1040,
+    "Renew": 980,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1040,
+    "Renew": 980,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1040,
+    "Renew": 980,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252d726e361b7271a249b1"
+  },
+  "DesignId": "86",
+  "Basic": {
+    "New": 1060,
+    "Renew": 1000,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1060,
+    "Renew": 1000,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1060,
+    "Renew": 1000,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252d886e361b7271a249b2"
+  },
+  "DesignId": "87",
+  "Basic": {
+    "New": 1080,
+    "Renew": 1020,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1080,
+    "Renew": 1020,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1080,
+    "Renew": 1020,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252da66e361b7271a249b3"
+  },
+  "DesignId": "88",
+  "Basic": {
+    "New": 1100,
+    "Renew": 1040,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1100,
+    "Renew": 1040,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1100,
+    "Renew": 1040,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a compact sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252db86e361b7271a249b4"
+  },
+  "DesignId": "89",
+  "Basic": {
+    "New": 1120,
+    "Renew": 1060,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1120,
+    "Renew": 1060,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1120,
+    "Renew": 1060,
+    "Modular": "Basic layout with essential dining features",
+    "Furniture": "Standard dining table, four chairs, and a small sideboard",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252e716e361b7271a249b5"
+  },
+  "DesignId": "90",
+  "Basic": {
+    "New": 600,
+    "Renew": 550,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 600,
+    "Renew": 550,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 600,
+    "Renew": 550,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252ee16e361b7271a249b6"
+  },
+  "DesignId": "92",
+  "Basic": {
+    "New": 620,
+    "Renew": 570,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 620,
+    "Renew": 570,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 620,
+    "Renew": 570,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252efc6e361b7271a249b7"
+  },
+  "DesignId": "93",
+  "Basic": {
+    "New": 640,
+    "Renew": 590,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 640,
+    "Renew": 590,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 640,
+    "Renew": 590,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252f146e361b7271a249b8"
+  },
+  "DesignId": "94",
+  "Basic": {
+    "New": 660,
+    "Renew": 610,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 660,
+    "Renew": 610,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 660,
+    "Renew": 610,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252f286e361b7271a249b9"
+  },
+  "DesignId": "95",
+  "Basic": {
+    "New": 680,
+    "Renew": 630,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 680,
+    "Renew": 630,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 680,
+    "Renew": 630,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252f416e361b7271a249ba"
+  },
+  "DesignId": "96",
+  "Basic": {
+    "New": 700,
+    "Renew": 650,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 700,
+    "Renew": 650,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 700,
+    "Renew": 650,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252f546e361b7271a249bb"
+  },
+  "DesignId": "97",
+  "Basic": {
+    "New": 720,
+    "Renew": 670,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 720,
+    "Renew": 670,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 720,
+    "Renew": 670,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252f6e6e361b7271a249bc"
+  },
+  "DesignId": "98",
+  "Basic": {
+    "New": 740,
+    "Renew": 690,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 740,
+    "Renew": 690,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 740,
+    "Renew": 690,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252f836e361b7271a249bd"
+  },
+  "DesignId": "99",
+  "Basic": {
+    "New": 760,
+    "Renew": 710,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 760,
+    "Renew": 710,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 760,
+    "Renew": 710,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252f966e361b7271a249be"
+  },
+  "DesignId": "100",
+  "Basic": {
+    "New": 780,
+    "Renew": 730,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 780,
+    "Renew": 730,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 780,
+    "Renew": 730,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252fc26e361b7271a249bf"
+  },
+  "DesignId": "101",
+  "Basic": {
+    "New": 800,
+    "Renew": 750,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 800,
+    "Renew": 750,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 800,
+    "Renew": 750,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252fe26e361b7271a249c0"
+  },
+  "DesignId": "102",
+  "Basic": {
+    "New": 820,
+    "Renew": 770,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 820,
+    "Renew": 770,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 820,
+    "Renew": 770,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "67252ffd6e361b7271a249c1"
+  },
+  "DesignId": "103",
+  "Basic": {
+    "New": 840,
+    "Renew": 790,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 840,
+    "Renew": 790,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 840,
+    "Renew": 790,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672530126e361b7271a249c2"
+  },
+  "DesignId": "104",
+  "Basic": {
+    "New": 860,
+    "Renew": 810,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 860,
+    "Renew": 810,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 860,
+    "Renew": 810,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725302b6e361b7271a249c3"
+  },
+  "DesignId": "105",
+  "Basic": {
+    "New": 880,
+    "Renew": 830,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 880,
+    "Renew": 830,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 880,
+    "Renew": 830,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672530416e361b7271a249c4"
+  },
+  "DesignId": "106",
+  "Basic": {
+    "New": 900,
+    "Renew": 850,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 900,
+    "Renew": 850,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 900,
+    "Renew": 850,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672530636e361b7271a249c5"
+  },
+  "DesignId": "107",
+  "Basic": {
+    "New": 920,
+    "Renew": 870,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 920,
+    "Renew": 870,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 920,
+    "Renew": 870,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic altar, small seating area, and storage cabinet",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672531216e361b7271a249c6"
+  },
+  "DesignId": "108",
+  "Basic": {
+    "New": 1200,
+    "Renew": 1100,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1200,
+    "Renew": 1100,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1200,
+    "Renew": 1100,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725313a6e361b7271a249c7"
+  },
+  "DesignId": "109",
+  "Basic": {
+    "New": 1220,
+    "Renew": 1120,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1220,
+    "Renew": 1120,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1220,
+    "Renew": 1120,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672531586e361b7271a249c8"
+  },
+  "DesignId": "110",
+  "Basic": {
+    "New": 1240,
+    "Renew": 1140,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1240,
+    "Renew": 1140,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1240,
+    "Renew": 1140,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725316e6e361b7271a249c9"
+  },
+  "DesignId": "111",
+  "Basic": {
+    "New": 1260,
+    "Renew": 1160,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1260,
+    "Renew": 1160,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1260,
+    "Renew": 1160,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672531846e361b7271a249ca"
+  },
+  "DesignId": "112",
+  "Basic": {
+    "New": 1280,
+    "Renew": 1180,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1280,
+    "Renew": 1180,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1280,
+    "Renew": 1180,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672531976e361b7271a249cb"
+  },
+  "DesignId": "113",
+  "Basic": {
+    "New": 1300,
+    "Renew": 1200,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1300,
+    "Renew": 1200,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1300,
+    "Renew": 1200,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672531af6e361b7271a249cc"
+  },
+  "DesignId": "114",
+  "Basic": {
+    "New": 1320,
+    "Renew": 1220,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1320,
+    "Renew": 1220,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1320,
+    "Renew": 1220,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672531ca6e361b7271a249cd"
+  },
+  "DesignId": "115",
+  "Basic": {
+    "New": 1340,
+    "Renew": 1240,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1340,
+    "Renew": 1240,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1340,
+    "Renew": 1240,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672531e16e361b7271a249ce"
+  },
+  "DesignId": "116",
+  "Basic": {
+    "New": 1360,
+    "Renew": 1260,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1360,
+    "Renew": 1260,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1360,
+    "Renew": 1260,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672531fa6e361b7271a249cf"
+  },
+  "DesignId": "117",
+  "Basic": {
+    "New": 1380,
+    "Renew": 1280,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1380,
+    "Renew": 1280,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1380,
+    "Renew": 1280,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672532476e361b7271a249d0"
+  },
+  "DesignId": "118",
+  "Basic": {
+    "New": 1400,
+    "Renew": 1300,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1400,
+    "Renew": 1300,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1400,
+    "Renew": 1300,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672532686e361b7271a249d1"
+  },
+  "DesignId": "119",
+  "Basic": {
+    "New": 1420,
+    "Renew": 1320,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1420,
+    "Renew": 1320,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1420,
+    "Renew": 1320,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672532816e361b7271a249d2"
+  },
+  "DesignId": "120",
+  "Basic": {
+    "New": 1440,
+    "Renew": 1340,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1440,
+    "Renew": 1340,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1440,
+    "Renew": 1340,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725329a6e361b7271a249d3"
+  },
+  "DesignId": "121",
+  "Basic": {
+    "New": 1460,
+    "Renew": 1360,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1460,
+    "Renew": 1360,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1460,
+    "Renew": 1360,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672532b36e361b7271a249d4"
+  },
+  "DesignId": "122",
+  "Basic": {
+    "New": 1480,
+    "Renew": 1380,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1480,
+    "Renew": 1380,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1480,
+    "Renew": 1380,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672532cc6e361b7271a249d5"
+  },
+  "DesignId": "123",
+  "Basic": {
+    "New": 1500,
+    "Renew": 1400,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1500,
+    "Renew": 1400,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1500,
+    "Renew": 1400,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672532eb6e361b7271a249d6"
+  },
+  "DesignId": "124",
+  "Basic": {
+    "New": 1520,
+    "Renew": 1420,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1520,
+    "Renew": 1420,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1520,
+    "Renew": 1420,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672532fe6e361b7271a249d7"
+  },
+  "DesignId": "125",
+  "Basic": {
+    "New": 1540,
+    "Renew": 1440,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1540,
+    "Renew": 1440,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1540,
+    "Renew": 1440,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672533176e361b7271a249d8"
+  },
+  "DesignId": "126",
+  "Basic": {
+    "New": 1560,
+    "Renew": 1460,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1560,
+    "Renew": 1460,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1560,
+    "Renew": 1460,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672533306e361b7271a249d9"
+  },
+  "DesignId": "127",
+  "Basic": {
+    "New": 1580,
+    "Renew": 1480,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1580,
+    "Renew": 1480,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1580,
+    "Renew": 1480,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672533496e361b7271a249da"
+  },
+  "DesignId": "128",
+  "Basic": {
+    "New": 1600,
+    "Renew": 1500,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1600,
+    "Renew": 1500,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1600,
+    "Renew": 1500,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672533676e361b7271a249db"
+  },
+  "DesignId": "129",
+  "Basic": {
+    "New": 1620,
+    "Renew": 1520,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1620,
+    "Renew": 1520,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1620,
+    "Renew": 1520,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725337e6e361b7271a249dc"
+  },
+  "DesignId": "130",
+  "Basic": {
+    "New": 1640,
+    "Renew": 1540,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1640,
+    "Renew": 1540,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1640,
+    "Renew": 1540,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672533a56e361b7271a249dd"
+  },
+  "DesignId": "131",
+  "Basic": {
+    "New": 1660,
+    "Renew": 1560,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1660,
+    "Renew": 1560,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1660,
+    "Renew": 1560,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672533c16e361b7271a249de"
+  },
+  "DesignId": "132",
+  "Basic": {
+    "New": 1680,
+    "Renew": 1580,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1680,
+    "Renew": 1580,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1680,
+    "Renew": 1580,
+    "Modular": "Simple layout with essential features",
+    "Furniture": "Basic desk, ergonomic chair, and small shelving unit",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672534746e361b7271a249df"
+  },
+  "DesignId": "133",
+  "Basic": {
+    "New": 1700,
+    "Renew": 1600,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1700,
+    "Renew": 1600,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1700,
+    "Renew": 1600,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672534896e361b7271a249e0"
+  },
+  "DesignId": "134",
+  "Basic": {
+    "New": 1720,
+    "Renew": 1620,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1720,
+    "Renew": 1620,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1720,
+    "Renew": 1620,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672534a06e361b7271a249e1"
+  },
+  "DesignId": "135",
+  "Basic": {
+    "New": 1740,
+    "Renew": 1640,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1740,
+    "Renew": 1640,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1740,
+    "Renew": 1640,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672534b66e361b7271a249e2"
+  },
+  "DesignId": "136",
+  "Basic": {
+    "New": 1760,
+    "Renew": 1660,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1760,
+    "Renew": 1660,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1760,
+    "Renew": 1660,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672534d26e361b7271a249e3"
+  },
+  "DesignId": "137",
+  "Basic": {
+    "New": 1780,
+    "Renew": 1680,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1780,
+    "Renew": 1680,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1780,
+    "Renew": 1680,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672534f86e361b7271a249e4"
+  },
+  "DesignId": "138",
+  "Basic": {
+    "New": 1800,
+    "Renew": 1700,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1800,
+    "Renew": 1700,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1800,
+    "Renew": 1700,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725350f6e361b7271a249e5"
+  },
+  "DesignId": "139",
+  "Basic": {
+    "New": 1820,
+    "Renew": 1720,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1820,
+    "Renew": 1720,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1820,
+    "Renew": 1720,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672535276e361b7271a249e6"
+  },
+  "DesignId": "140",
+  "Basic": {
+    "New": 1840,
+    "Renew": 1740,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1840,
+    "Renew": 1740,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1840,
+    "Renew": 1740,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725353a6e361b7271a249e7"
+  },
+  "DesignId": "141",
+  "Basic": {
+    "New": 1860,
+    "Renew": 1760,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1860,
+    "Renew": 1760,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1860,
+    "Renew": 1760,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672535536e361b7271a249e8"
+  },
+  "DesignId": "142",
+  "Basic": {
+    "New": 1880,
+    "Renew": 1780,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1880,
+    "Renew": 1780,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1880,
+    "Renew": 1780,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672535676e361b7271a249e9"
+  },
+  "DesignId": "143",
+  "Basic": {
+    "New": 1900,
+    "Renew": 1800,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1900,
+    "Renew": 1800,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1900,
+    "Renew": 1800,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725357d6e361b7271a249ea"
+  },
+  "DesignId": "144",
+  "Basic": {
+    "New": 1920,
+    "Renew": 1820,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1920,
+    "Renew": 1820,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1920,
+    "Renew": 1820,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672535986e361b7271a249eb"
+  },
+  "DesignId": "145",
+  "Basic": {
+    "New": 1940,
+    "Renew": 1840,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1940,
+    "Renew": 1840,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1940,
+    "Renew": 1840,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672535ae6e361b7271a249ec"
+  },
+  "DesignId": "146",
+  "Basic": {
+    "New": 1960,
+    "Renew": 1860,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1960,
+    "Renew": 1860,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1960,
+    "Renew": 1860,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672535ca6e361b7271a249ed"
+  },
+  "DesignId": "147",
+  "Basic": {
+    "New": 1980,
+    "Renew": 1880,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 1980,
+    "Renew": 1880,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 1980,
+    "Renew": 1880,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "6725367f6e361b7271a249ee"
+  },
+  "DesignId": "148",
+  "Basic": {
+    "New": 2080,
+    "Renew": 1980,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 2080,
+    "Renew": 1980,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  },
+  "Premium": {
+    "New": 2080,
+    "Renew": 1980,
+    "Modular": "Simple outdoor layout with essential features",
+    "Furniture": "Basic outdoor table and chairs",
+    "Services": "Standard assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672536b76e361b7271a249ef"
+  },
+  "DesignId": "149",
+  "Basic": {
+    "New": 2300,
+    "Renew": 2200,
+    "Modular": "Enhanced outdoor layout with essential features",
+    "Furniture": "Upgraded outdoor table and chairs with cushions",
+    "Services": "Enhanced assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 2300,
+    "Renew": 2200,
+    "Modular": "Enhanced outdoor layout with essential features",
+    "Furniture": "Upgraded outdoor table and chairs with cushions",
+    "Services": "Enhanced assembly and setup service"
+  },
+  "Premium": {
+    "New": 2300,
+    "Renew": 2200,
+    "Modular": "Enhanced outdoor layout with essential features",
+    "Furniture": "Upgraded outdoor table and chairs with cushions",
+    "Services": "Enhanced assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672536ce6e361b7271a249f0"
+  },
+  "DesignId": "150",
+  "Basic": {
+    "New": 2450,
+    "Renew": 2350,
+    "Modular": "Optimized outdoor layout with upgraded essentials",
+    "Furniture": "Stylish outdoor table and chairs with added comfort features",
+    "Services": "Comprehensive assembly and setup service"
+  },
+  "Intermediate": {
+    "New": 2450,
+    "Renew": 2350,
+    "Modular": "Optimized outdoor layout with upgraded essentials",
+    "Furniture": "Stylish outdoor table and chairs with added comfort features",
+    "Services": "Comprehensive assembly and setup service"
+  },
+  "Premium": {
+    "New": 2450,
+    "Renew": 2350,
+    "Modular": "Optimized outdoor layout with upgraded essentials",
+    "Furniture": "Stylish outdoor table and chairs with added comfort features",
+    "Services": "Comprehensive assembly and setup service"
+  }
+},{
+  "_id": {
+    "$oid": "672536ef6e361b7271a249f1"
+  },
+  "DesignId": "151",
+  "Basic": {
+    "New": 2600,
+    "Renew": 2500,
+    "Modular": "Refined outdoor layout with essential comforts",
+    "Furniture": "Modern outdoor table, chairs with cushions, and basic decor",
+    "Services": "Complete assembly, setup, and basic maintenance service"
+  },
+  "Intermediate": {
+    "New": 2600,
+    "Renew": 2500,
+    "Modular": "Refined outdoor layout with essential comforts",
+    "Furniture": "Modern outdoor table, chairs with cushions, and basic decor",
+    "Services": "Complete assembly, setup, and basic maintenance service"
+  },
+  "Premium": {
+    "New": 2600,
+    "Renew": 2500,
+    "Modular": "Refined outdoor layout with essential comforts",
+    "Furniture": "Modern outdoor table, chairs with cushions, and basic decor",
+    "Services": "Complete assembly, setup, and basic maintenance service"
+  }
+},{
+  "_id": {
+    "$oid": "672537096e361b7271a249f2"
+  },
+  "DesignId": "152",
+  "Basic": {
+    "New": 2750,
+    "Renew": 2650,
+    "Modular": "Enhanced outdoor layout with stylish essentials",
+    "Furniture": "Contemporary outdoor table, comfortable chairs, and minimal decor",
+    "Services": "Full assembly, setup, and initial maintenance service"
+  },
+  "Intermediate": {
+    "New": 2750,
+    "Renew": 2650,
+    "Modular": "Enhanced outdoor layout with stylish essentials",
+    "Furniture": "Contemporary outdoor table, comfortable chairs, and minimal decor",
+    "Services": "Full assembly, setup, and initial maintenance service"
+  },
+  "Premium": {
+    "New": 2750,
+    "Renew": 2650,
+    "Modular": "Enhanced outdoor layout with stylish essentials",
+    "Furniture": "Contemporary outdoor table, comfortable chairs, and minimal decor",
+    "Services": "Full assembly, setup, and initial maintenance service"
+  }
+},{
+  "_id": {
+    "$oid": "6725b6ebfa0f5d2613d72977"
+  },
+  "DesignId": "153",
+  "Basic": {
+    "New": 3000,
+    "Renew": 2900,
+    "Modular": "Simple and safe layout with essential furniture",
+    "Furniture": "Basic kids' bed, small desk, and storage",
+    "Services": "Standard assembly and setup with child-safe features"
+  },
+  "Intermediate": {
+    "New": 3000,
+    "Renew": 2900,
+    "Modular": "Simple and safe layout with essential furniture",
+    "Furniture": "Basic kids' bed, small desk, and storage",
+    "Services": "Standard assembly and setup with child-safe features"
+  },
+  "Premium": {
+    "New": 3000,
+    "Renew": 2900,
+    "Modular": "Simple and safe layout with essential furniture",
+    "Furniture": "Basic kids' bed, small desk, and storage",
+    "Services": "Standard assembly and setup with child-safe features"
+  }
+},{
+  "_id": {
+    "$oid": "6725b70bfa0f5d2613d72978"
+  },
+  "DesignId": "154",
+  "Basic": {
+    "New": 3200,
+    "Renew": 3100,
+    "Modular": "Cozy and functional layout with essential furniture",
+    "Furniture": "Kids' bed, basic desk, storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing features"
+  },
+  "Intermediate": {
+    "New": 3200,
+    "Renew": 3100,
+    "Modular": "Cozy and functional layout with essential furniture",
+    "Furniture": "Kids' bed, basic desk, storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing features"
+  },
+  "Premium": {
+    "New": 3200,
+    "Renew": 3100,
+    "Modular": "Cozy and functional layout with essential furniture",
+    "Furniture": "Kids' bed, basic desk, storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing features"
+  }
+},{
+  "_id": {
+    "$oid": "6725b72bfa0f5d2613d72979"
+  },
+  "DesignId": "155",
+  "Basic": {
+    "New": 3400,
+    "Renew": 3300,
+    "Modular": "Practical and inviting layout with essential furniture",
+    "Furniture": "Single kids' bed, desk, basic storage units, and cozy decor",
+    "Services": "Standard assembly, setup, and essential childproofing"
+  },
+  "Intermediate": {
+    "New": 3400,
+    "Renew": 3300,
+    "Modular": "Practical and inviting layout with essential furniture",
+    "Furniture": "Single kids' bed, desk, basic storage units, and cozy decor",
+    "Services": "Standard assembly, setup, and essential childproofing"
+  },
+  "Premium": {
+    "New": 3400,
+    "Renew": 3300,
+    "Modular": "Practical and inviting layout with essential furniture",
+    "Furniture": "Single kids' bed, desk, basic storage units, and cozy decor",
+    "Services": "Standard assembly, setup, and essential childproofing"
+  }
+},{
+  "_id": {
+    "$oid": "6725b744fa0f5d2613d7297a"
+  },
+  "DesignId": "156",
+  "Basic": {
+    "New": 3600,
+    "Renew": 3500,
+    "Modular": "Comfortable and functional layout with essential furniture",
+    "Furniture": "Standard kids' bed, compact desk, basic storage, and simple decor",
+    "Services": "Complete assembly, setup, and basic childproofing"
+  },
+  "Intermediate": {
+    "New": 3600,
+    "Renew": 3500,
+    "Modular": "Comfortable and functional layout with essential furniture",
+    "Furniture": "Standard kids' bed, compact desk, basic storage, and simple decor",
+    "Services": "Complete assembly, setup, and basic childproofing"
+  },
+  "Premium": {
+    "New": 3600,
+    "Renew": 3500,
+    "Modular": "Comfortable and functional layout with essential furniture",
+    "Furniture": "Standard kids' bed, compact desk, basic storage, and simple decor",
+    "Services": "Complete assembly, setup, and basic childproofing"
+  }
+},{
+  "_id": {
+    "$oid": "6725b75ffa0f5d2613d7297b"
+  },
+  "DesignId": "157",
+  "Basic": {
+    "New": 3800,
+    "Renew": 3700,
+    "Modular": "Kid-friendly layout with essential furniture and decor",
+    "Furniture": "Comfortable kids' bed, small desk, basic storage, and minimal decor",
+    "Services": "Standard assembly, setup, and essential childproofing measures"
+  },
+  "Intermediate": {
+    "New": 3800,
+    "Renew": 3700,
+    "Modular": "Kid-friendly layout with essential furniture and decor",
+    "Furniture": "Comfortable kids' bed, small desk, basic storage, and minimal decor",
+    "Services": "Standard assembly, setup, and essential childproofing measures"
+  },
+  "Premium": {
+    "New": 3800,
+    "Renew": 3700,
+    "Modular": "Kid-friendly layout with essential furniture and decor",
+    "Furniture": "Comfortable kids' bed, small desk, basic storage, and minimal decor",
+    "Services": "Standard assembly, setup, and essential childproofing measures"
+  }
+},{
+  "_id": {
+    "$oid": "6725b7c9fa0f5d2613d7297c"
+  },
+  "DesignId": "158",
+  "Basic": {
+    "New": 4000,
+    "Renew": 3900,
+    "Modular": "Practical and cozy layout with essential furniture for kids",
+    "Furniture": "Standard kids' bed, compact desk, basic storage, and playful decor",
+    "Services": "Complete assembly, setup, and essential childproofing features"
+  },
+  "Intermediate": {
+    "New": 4000,
+    "Renew": 3900,
+    "Modular": "Practical and cozy layout with essential furniture for kids",
+    "Furniture": "Standard kids' bed, compact desk, basic storage, and playful decor",
+    "Services": "Complete assembly, setup, and essential childproofing features"
+  },
+  "Premium": {
+    "New": 4000,
+    "Renew": 3900,
+    "Modular": "Practical and cozy layout with essential furniture for kids",
+    "Furniture": "Standard kids' bed, compact desk, basic storage, and playful decor",
+    "Services": "Complete assembly, setup, and essential childproofing features"
+  }
+},{
+  "_id": {
+    "$oid": "6725b809fa0f5d2613d7297d"
+  },
+  "DesignId": "159",
+  "Basic": {
+    "New": 4200,
+    "Renew": 4100,
+    "Modular": "Simple yet engaging layout with essential kids' furniture",
+    "Furniture": "Kids' bed, study desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and basic childproofing features"
+  },
+  "Intermediate": {
+    "New": 4200,
+    "Renew": 4100,
+    "Modular": "Simple yet engaging layout with essential kids' furniture",
+    "Furniture": "Kids' bed, study desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and basic childproofing features"
+  },
+  "Premium": {
+    "New": 4200,
+    "Renew": 4100,
+    "Modular": "Simple yet engaging layout with essential kids' furniture",
+    "Furniture": "Kids' bed, study desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and basic childproofing features"
+  }
+},{
+  "_id": {
+    "$oid": "6725b855fa0f5d2613d7297e"
+  },
+  "DesignId": "161",
+  "Basic": {
+    "New": 4600,
+    "Renew": 4500,
+    "Modular": "Functional layout with essential kids' furniture",
+    "Furniture": "Comfortable kids' bed, small desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  },
+  "Intermediate": {
+    "New": 4600,
+    "Renew": 4500,
+    "Modular": "Functional layout with essential kids' furniture",
+    "Furniture": "Comfortable kids' bed, small desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  },
+  "Premium": {
+    "New": 4600,
+    "Renew": 4500,
+    "Modular": "Functional layout with essential kids' furniture",
+    "Furniture": "Comfortable kids' bed, small desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  }
+},{
+  "_id": {
+    "$oid": "6725b86afa0f5d2613d7297f"
+  },
+  "DesignId": "162",
+  "Basic": {
+    "New": 4800,
+    "Renew": 4700,
+    "Modular": "Simple and practical layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage, and cozy decor",
+    "Services": "Complete assembly, setup, and essential childproofing"
+  },
+  "Intermediate": {
+    "New": 4800,
+    "Renew": 4700,
+    "Modular": "Simple and practical layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage, and cozy decor",
+    "Services": "Complete assembly, setup, and essential childproofing"
+  },
+  "Premium": {
+    "New": 4800,
+    "Renew": 4700,
+    "Modular": "Simple and practical layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage, and cozy decor",
+    "Services": "Complete assembly, setup, and essential childproofing"
+  }
+},{
+  "_id": {
+    "$oid": "6725b889fa0f5d2613d72980"
+  },
+  "DesignId": "163",
+  "Basic": {
+    "New": 5000,
+    "Renew": 4900,
+    "Modular": "Comfortable layout with essential kids' furniture",
+    "Furniture": "Standard kids' bed, small desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  },
+  "Intermediate": {
+    "New": 5000,
+    "Renew": 4900,
+    "Modular": "Comfortable layout with essential kids' furniture",
+    "Furniture": "Standard kids' bed, small desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  },
+  "Premium": {
+    "New": 5000,
+    "Renew": 4900,
+    "Modular": "Comfortable layout with essential kids' furniture",
+    "Furniture": "Standard kids' bed, small desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  }
+},{
+  "_id": {
+    "$oid": "6725b89ffa0f5d2613d72981"
+  },
+  "DesignId": "164",
+  "Basic": {
+    "New": 5200,
+    "Renew": 5100,
+    "Modular": "Functional and cozy layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing"
+  },
+  "Intermediate": {
+    "New": 5200,
+    "Renew": 5100,
+    "Modular": "Functional and cozy layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing"
+  },
+  "Premium": {
+    "New": 5200,
+    "Renew": 5100,
+    "Modular": "Functional and cozy layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing"
+  }
+},{
+  "_id": {
+    "$oid": "6725b8c1fa0f5d2613d72982"
+  },
+  "DesignId": "165",
+  "Basic": {
+    "New": 5400,
+    "Renew": 5300,
+    "Modular": "Simple and functional layout with essential kids' furniture",
+    "Furniture": "Kids' bed, small desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and basic childproofing features"
+  },
+  "Intermediate": {
+    "New": 5400,
+    "Renew": 5300,
+    "Modular": "Simple and functional layout with essential kids' furniture",
+    "Furniture": "Kids' bed, small desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and basic childproofing features"
+  },
+  "Premium": {
+    "New": 5400,
+    "Renew": 5300,
+    "Modular": "Simple and functional layout with essential kids' furniture",
+    "Furniture": "Kids' bed, small desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and basic childproofing features"
+  }
+},{
+  "_id": {
+    "$oid": "6725b8ddfa0f5d2613d72983"
+  },
+  "DesignId": "166",
+  "Basic": {
+    "New": 5600,
+    "Renew": 5500,
+    "Modular": "Cozy and practical layout with essential kids' furniture",
+    "Furniture": "Standard kids' bed, compact desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  },
+  "Intermediate": {
+    "New": 5600,
+    "Renew": 5500,
+    "Modular": "Cozy and practical layout with essential kids' furniture",
+    "Furniture": "Standard kids' bed, compact desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  },
+  "Premium": {
+    "New": 5600,
+    "Renew": 5500,
+    "Modular": "Cozy and practical layout with essential kids' furniture",
+    "Furniture": "Standard kids' bed, compact desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  }
+},{
+  "_id": {
+    "$oid": "6725b8f6fa0f5d2613d72984"
+  },
+  "DesignId": "167",
+  "Basic": {
+    "New": 5800,
+    "Renew": 5700,
+    "Modular": "Functional and cozy layout with essential kids' furniture",
+    "Furniture": "Kids' bed, small desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and essential childproofing"
+  },
+  "Intermediate": {
+    "New": 5800,
+    "Renew": 5700,
+    "Modular": "Functional and cozy layout with essential kids' furniture",
+    "Furniture": "Kids' bed, small desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and essential childproofing"
+  },
+  "Premium": {
+    "New": 5800,
+    "Renew": 5700,
+    "Modular": "Functional and cozy layout with essential kids' furniture",
+    "Furniture": "Kids' bed, small desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and essential childproofing"
+  }
+},{
+  "_id": {
+    "$oid": "6725b90ffa0f5d2613d72985"
+  },
+  "DesignId": "168",
+  "Basic": {
+    "New": 6000,
+    "Renew": 5900,
+    "Modular": "Simple and practical layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and essential childproofing features"
+  },
+  "Intermediate": {
+    "New": 6000,
+    "Renew": 5900,
+    "Modular": "Simple and practical layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and essential childproofing features"
+  },
+  "Premium": {
+    "New": 6000,
+    "Renew": 5900,
+    "Modular": "Simple and practical layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and essential childproofing features"
+  }
+},{
+  "_id": {
+    "$oid": "6725b92afa0f5d2613d72986"
+  },
+  "DesignId": "169",
+  "Basic": {
+    "New": 6200,
+    "Renew": 6100,
+    "Modular": "Functional and cozy layout with essential kids' furniture",
+    "Furniture": "Kids' bed, small desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  },
+  "Intermediate": {
+    "New": 6200,
+    "Renew": 6100,
+    "Modular": "Functional and cozy layout with essential kids' furniture",
+    "Furniture": "Kids' bed, small desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  },
+  "Premium": {
+    "New": 6200,
+    "Renew": 6100,
+    "Modular": "Functional and cozy layout with essential kids' furniture",
+    "Furniture": "Kids' bed, small desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  }
+},{
+  "_id": {
+    "$oid": "6725b941fa0f5d2613d72987"
+  },
+  "DesignId": "170",
+  "Basic": {
+    "New": 6400,
+    "Renew": 6300,
+    "Modular": "Simple and practical layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and essential childproofing features"
+  },
+  "Intermediate": {
+    "New": 6400,
+    "Renew": 6300,
+    "Modular": "Simple and practical layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and essential childproofing features"
+  },
+  "Premium": {
+    "New": 6400,
+    "Renew": 6300,
+    "Modular": "Simple and practical layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and essential childproofing features"
+  }
+},{
+  "_id": {
+    "$oid": "6725b961fa0f5d2613d72988"
+  },
+  "DesignId": "171",
+  "Basic": {
+    "New": 6600,
+    "Renew": 6500,
+    "Modular": "Functional and cozy layout with essential kids' furniture",
+    "Furniture": "Kids' bed, small desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  },
+  "Intermediate": {
+    "New": 6600,
+    "Renew": 6500,
+    "Modular": "Functional and cozy layout with essential kids' furniture",
+    "Furniture": "Kids' bed, small desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  },
+  "Premium": {
+    "New": 6600,
+    "Renew": 6500,
+    "Modular": "Functional and cozy layout with essential kids' furniture",
+    "Furniture": "Kids' bed, small desk, basic storage units, and minimal decor",
+    "Services": "Complete assembly, setup, and childproofing essentials"
+  }
+},{
+  "_id": {
+    "$oid": "6725b985fa0f5d2613d72989"
+  },
+  "DesignId": "172",
+  "Basic": {
+    "New": 6800,
+    "Renew": 6700,
+    "Modular": "Simple and practical layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and essential childproofing features"
+  },
+  "Intermediate": {
+    "New": 6800,
+    "Renew": 6700,
+    "Modular": "Simple and practical layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and essential childproofing features"
+  },
+  "Premium": {
+    "New": 6800,
+    "Renew": 6700,
+    "Modular": "Simple and practical layout with essential kids' furniture",
+    "Furniture": "Kids' bed, compact desk, basic storage, and minimal decor",
+    "Services": "Complete assembly, setup, and essential childproofing features"
+  }
+},{
+  "_id": {
+    "$oid": "6725ba38fa0f5d2613d7298a"
+  },
+  "DesignId": "173",
+  "Basic": {
+    "New": 7000,
+    "Renew": 6900,
+    "Modular": "Functional layout with essential bathroom fixtures",
+    "Furniture": "Basic sink, toilet, and shower enclosure",
+    "Services": "Standard installation and plumbing setup"
+  },
+  "Intermediate": {
+    "New": 7000,
+    "Renew": 6900,
+    "Modular": "Functional layout with essential bathroom fixtures",
+    "Furniture": "Basic sink, toilet, and shower enclosure",
+    "Services": "Standard installation and plumbing setup"
+  },
+  "Premium": {
+    "New": 7000,
+    "Renew": 6900,
+    "Modular": "Functional layout with essential bathroom fixtures",
+    "Furniture": "Basic sink, toilet, and shower enclosure",
+    "Services": "Standard installation and plumbing setup"
+  }
+},{
+  "_id": {
+    "$oid": "6725ba4afa0f5d2613d7298b"
+  },
+  "DesignId": "174",
+  "Basic": {
+    "New": 7200,
+    "Renew": 7100,
+    "Modular": "Basic, functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower setup",
+    "Services": "Complete installation and plumbing setup"
+  },
+  "Intermediate": {
+    "New": 7200,
+    "Renew": 7100,
+    "Modular": "Basic, functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower setup",
+    "Services": "Complete installation and plumbing setup"
+  },
+  "Premium": {
+    "New": 7200,
+    "Renew": 7100,
+    "Modular": "Basic, functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower setup",
+    "Services": "Complete installation and plumbing setup"
+  }
+},{
+  "_id": {
+    "$oid": "6725ba63fa0f5d2613d7298c"
+  },
+  "DesignId": "175",
+  "Basic": {
+    "New": 7400,
+    "Renew": 7300,
+    "Modular": "Simple and functional layout with essential bathroom fixtures",
+    "Furniture": "Basic sink, toilet, and standard shower enclosure",
+    "Services": "Complete installation and basic plumbing setup"
+  },
+  "Intermediate": {
+    "New": 7400,
+    "Renew": 7300,
+    "Modular": "Simple and functional layout with essential bathroom fixtures",
+    "Furniture": "Basic sink, toilet, and standard shower enclosure",
+    "Services": "Complete installation and basic plumbing setup"
+  },
+  "Premium": {
+    "New": 7400,
+    "Renew": 7300,
+    "Modular": "Simple and functional layout with essential bathroom fixtures",
+    "Furniture": "Basic sink, toilet, and standard shower enclosure",
+    "Services": "Complete installation and basic plumbing setup"
+  }
+},{
+  "_id": {
+    "$oid": "6725ba79fa0f5d2613d7298d"
+  },
+  "DesignId": "176",
+  "Basic": {
+    "New": 7600,
+    "Renew": 7500,
+    "Modular": "Essential layout with functional bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing"
+  },
+  "Intermediate": {
+    "New": 7600,
+    "Renew": 7500,
+    "Modular": "Essential layout with functional bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing"
+  },
+  "Premium": {
+    "New": 7600,
+    "Renew": 7500,
+    "Modular": "Essential layout with functional bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing"
+  }
+},{
+  "_id": {
+    "$oid": "6725ba8ffa0f5d2613d7298e"
+  },
+  "DesignId": "177",
+  "Basic": {
+    "New": 7800,
+    "Renew": 7700,
+    "Modular": "Basic and practical layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and basic plumbing services"
+  },
+  "Intermediate": {
+    "New": 7800,
+    "Renew": 7700,
+    "Modular": "Basic and practical layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and basic plumbing services"
+  },
+  "Premium": {
+    "New": 7800,
+    "Renew": 7700,
+    "Modular": "Basic and practical layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and basic plumbing services"
+  }
+},{
+  "_id": {
+    "$oid": "6725baa7fa0f5d2613d7298f"
+  },
+  "DesignId": "178",
+  "Basic": {
+    "New": 8000,
+    "Renew": 7900,
+    "Modular": "Functional layout with essential bathroom fixtures",
+    "Furniture": "Basic sink, toilet, and standard shower setup",
+    "Services": "Complete installation and basic plumbing services"
+  },
+  "Intermediate": {
+    "New": 8000,
+    "Renew": 7900,
+    "Modular": "Functional layout with essential bathroom fixtures",
+    "Furniture": "Basic sink, toilet, and standard shower setup",
+    "Services": "Complete installation and basic plumbing services"
+  },
+  "Premium": {
+    "New": 8000,
+    "Renew": 7900,
+    "Modular": "Functional layout with essential bathroom fixtures",
+    "Furniture": "Basic sink, toilet, and standard shower setup",
+    "Services": "Complete installation and basic plumbing services"
+  }
+},{
+  "_id": {
+    "$oid": "6725babdfa0f5d2613d72990"
+  },
+  "DesignId": "179",
+  "Basic": {
+    "New": 8200,
+    "Renew": 8100,
+    "Modular": "Simple and functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower enclosure",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Intermediate": {
+    "New": 8200,
+    "Renew": 8100,
+    "Modular": "Simple and functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower enclosure",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Premium": {
+    "New": 8200,
+    "Renew": 8100,
+    "Modular": "Simple and functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower enclosure",
+    "Services": "Complete installation and standard plumbing services"
+  }
+},{
+  "_id": {
+    "$oid": "6725bad3fa0f5d2613d72991"
+  },
+  "DesignId": "180",
+  "Basic": {
+    "New": 8400,
+    "Renew": 8300,
+    "Modular": "Basic, functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Intermediate": {
+    "New": 8400,
+    "Renew": 8300,
+    "Modular": "Basic, functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Premium": {
+    "New": 8400,
+    "Renew": 8300,
+    "Modular": "Basic, functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  }
+},{
+  "_id": {
+    "$oid": "6725baf3fa0f5d2613d72992"
+  },
+  "DesignId": "181",
+  "Basic": {
+    "New": 8600,
+    "Renew": 8500,
+    "Modular": "Simple and functional layout with essential bathroom fixtures",
+    "Furniture": "Basic sink, toilet, and standard shower enclosure",
+    "Services": "Complete installation and basic plumbing services"
+  },
+  "Intermediate": {
+    "New": 8600,
+    "Renew": 8500,
+    "Modular": "Simple and functional layout with essential bathroom fixtures",
+    "Furniture": "Basic sink, toilet, and standard shower enclosure",
+    "Services": "Complete installation and basic plumbing services"
+  },
+  "Premium": {
+    "New": 8600,
+    "Renew": 8500,
+    "Modular": "Simple and functional layout with essential bathroom fixtures",
+    "Furniture": "Basic sink, toilet, and standard shower enclosure",
+    "Services": "Complete installation and basic plumbing services"
+  }
+},{
+  "_id": {
+    "$oid": "6725bb07fa0f5d2613d72993"
+  },
+  "DesignId": "182",
+  "Basic": {
+    "New": 8800,
+    "Renew": 8700,
+    "Modular": "Basic, functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Intermediate": {
+    "New": 8800,
+    "Renew": 8700,
+    "Modular": "Basic, functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Premium": {
+    "New": 8800,
+    "Renew": 8700,
+    "Modular": "Basic, functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  }
+},{
+  "_id": {
+    "$oid": "6725bb23fa0f5d2613d72994"
+  },
+  "DesignId": "183",
+  "Basic": {
+    "New": 9000,
+    "Renew": 8900,
+    "Modular": "Functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and basic plumbing services"
+  },
+  "Intermediate": {
+    "New": 9000,
+    "Renew": 8900,
+    "Modular": "Functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and basic plumbing services"
+  },
+  "Premium": {
+    "New": 9000,
+    "Renew": 8900,
+    "Modular": "Functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and basic plumbing services"
+  }
+},{
+  "_id": {
+    "$oid": "6725bb3efa0f5d2613d72995"
+  },
+  "DesignId": "184",
+  "Basic": {
+    "New": 9200,
+    "Renew": 9100,
+    "Modular": "Basic and functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Intermediate": {
+    "New": 9200,
+    "Renew": 9100,
+    "Modular": "Basic and functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Premium": {
+    "New": 9200,
+    "Renew": 9100,
+    "Modular": "Basic and functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  }
+},{
+  "_id": {
+    "$oid": "6725bb73fa0f5d2613d72996"
+  },
+  "DesignId": "186",
+  "Basic": {
+    "New": 9600,
+    "Renew": 9500,
+    "Modular": "Simple and practical layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Intermediate": {
+    "New": 9600,
+    "Renew": 9500,
+    "Modular": "Simple and practical layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Premium": {
+    "New": 9600,
+    "Renew": 9500,
+    "Modular": "Simple and practical layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  }
+},{
+  "_id": {
+    "$oid": "6725bb8ffa0f5d2613d72997"
+  },
+  "DesignId": "187",
+  "Basic": {
+    "New": 9800,
+    "Renew": 9700,
+    "Modular": "Basic and functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and basic plumbing services"
+  },
+  "Intermediate": {
+    "New": 9800,
+    "Renew": 9700,
+    "Modular": "Basic and functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and basic plumbing services"
+  },
+  "Premium": {
+    "New": 9800,
+    "Renew": 9700,
+    "Modular": "Basic and functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and basic plumbing services"
+  }
+},{
+  "_id": {
+    "$oid": "6725bbc0fa0f5d2613d72998"
+  },
+  "DesignId": "188",
+  "Basic": {
+    "New": 10000,
+    "Renew": 9900,
+    "Modular": "Functional and practical layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Intermediate": {
+    "New": 10000,
+    "Renew": 9900,
+    "Modular": "Functional and practical layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Premium": {
+    "New": 10000,
+    "Renew": 9900,
+    "Modular": "Functional and practical layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  }
+},{
+  "_id": {
+    "$oid": "6725bbd8fa0f5d2613d72999"
+  },
+  "DesignId": "189",
+  "Basic": {
+    "New": 10200,
+    "Renew": 10100,
+    "Modular": "Basic, functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Intermediate": {
+    "New": 10200,
+    "Renew": 10100,
+    "Modular": "Basic, functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Premium": {
+    "New": 10200,
+    "Renew": 10100,
+    "Modular": "Basic, functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and standard plumbing services"
+  }
+},{
+  "_id": {
+    "$oid": "6725bc00fa0f5d2613d7299a"
+  },
+  "DesignId": "190",
+  "Basic": {
+    "New": 10400,
+    "Renew": 10300,
+    "Modular": "Simple and functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Intermediate": {
+    "New": 10400,
+    "Renew": 10300,
+    "Modular": "Simple and functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Premium": {
+    "New": 10400,
+    "Renew": 10300,
+    "Modular": "Simple and functional layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and basic shower setup",
+    "Services": "Complete installation and standard plumbing services"
+  }
+},{
+  "_id": {
+    "$oid": "6725bc23fa0f5d2613d7299b"
+  },
+  "DesignId": "191",
+  "Basic": {
+    "New": 10600,
+    "Renew": 10500,
+    "Modular": "Functional and practical layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Intermediate": {
+    "New": 10600,
+    "Renew": 10500,
+    "Modular": "Functional and practical layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and standard plumbing services"
+  },
+  "Premium": {
+    "New": 10600,
+    "Renew": 10500,
+    "Modular": "Functional and practical layout with essential bathroom fixtures",
+    "Furniture": "Standard sink, toilet, and shower enclosure",
+    "Services": "Complete installation and standard plumbing services"
+  }
+}]
